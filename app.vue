@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <ContentDoc path="/" class="prose text-left" />
   </div>
 </template>
